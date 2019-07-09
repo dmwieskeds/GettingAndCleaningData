@@ -14,11 +14,11 @@ The following tables from the original data set are used in this project:
 | train/X_train.txt         | traindata         | training data
 | train/y_train.txt         | trainActivity     | activity code number for training data
 | train/subject_train.txt   | trainSubject      | subject number for training data
-| 
+| |
 | test/X_test.txt           | testdata          | test data
 | test/y_test.txt           | testActivity      | activity code number for test data
 | test/subject_test.txt     | testSubject       | subject number for test data
-| 
+| |
 | activity_labels.txt       | Activity          | activity code number and description
 | features.txt              | labels            | column labels for both data sets
 
@@ -40,7 +40,7 @@ Following are the fields used for this project (after extracting the columns nee
 | ------                    | ------ 
 | Subject                   | Integer from 1-30 representing the individual being measured
 | Activity                  | One of six activities performed while wearing a smartphone (Samsung Galaxy S II) on the waist
-| 
+| 	|
 | tBodyAcc-mean()-X	    | Mean body acceleration (time) in X direction
 | tBodyAcc-mean()-Y	    | Mean body acceleration (time) in Y direction
 | tBodyAcc-mean()-Z         | Mean body acceleration (time) in Z direction
